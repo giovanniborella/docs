@@ -4,11 +4,14 @@ Velkommen til Vidi dokumentationen
 
 .. topic:: Overview
 
-    Vælg hvilken 
+    Vælg et emne 
 
-Contents:
+Indhold:
 
- * :doc:`./use/index`
+.. toctree::
+   :maxdepth: 2
+   :glob:
 
+    pages/*
 
 .. include:: ./_subs/VIDI.rst 

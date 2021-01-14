@@ -1,8 +1,8 @@
 .. _layersearch:
 
-##############################################
+
 LayerSearch
-##############################################
+=============
 
 .. topic:: Overview
 
@@ -15,7 +15,7 @@ LayerSearch
     :depth: 3
 
 
-Overført
+Opsætning
 #############
 
 LayerSearch aktiveres i konfigurationsfilen som kaldes med parameter i URL.
