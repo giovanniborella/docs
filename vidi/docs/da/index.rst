@@ -12,10 +12,8 @@ Contents:
 
 
 
-Indices and tables
+Vidi
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. mdinclude:: ../../README.md
 

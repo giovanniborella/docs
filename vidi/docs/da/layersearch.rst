@@ -21,7 +21,7 @@ LayerSearch
     :depth: 3
 
 
-Introduktion
+Overført
 #############
 
 LayerSearch aktiveres i konfigurationsfilen som kaldes med parameter i URL.
