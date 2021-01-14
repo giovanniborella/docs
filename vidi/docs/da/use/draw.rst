@@ -24,8 +24,6 @@ Tegneværktøjet
 .. figure:: ../../_media/meow.jpg
     :width: 400px
     :align: center
-..    :height: 200px
-
     :alt: meow
     :figclass: align-center
 
