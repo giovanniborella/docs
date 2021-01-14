@@ -8,14 +8,10 @@ LayerSearch
 
     Denne side viser hvordan 
 
-    :Date: 25. Aug. 2017
-    :Author: **Anders Barfod**
+    :Dato: 25. Aug. 2017
+    :Forfatter: **Anders Barfod**
 
-    .. warning:: Indhold fra denne side er overført direkte fra ældre wiki.
-
-            Indhold kan derfor være uddateret.
-
-            Du er velkommen til at hjælpe med at holde dokumentationen opdateret. Læs mere her :ref:`_CONTRIBUTING`
+    .. include :ref:`_OLDWARNING`
     
 .. contents:: 
     :depth: 3
