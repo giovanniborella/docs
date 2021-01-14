@@ -4,4 +4,4 @@
 Changelog
 ==================================================
 
-.. mdinclude:: ../../CHANGELOG.md
+.. mdinclude:: ../../../CHANGELOG.md

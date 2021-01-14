@@ -9,7 +9,7 @@ LayerSearch
     :Dato: 25. aug., 2017
     :Forfatter: **Anders Barfod**
 
-    .. include:: ../OLDWARNING.rst
+    .. include:: :ref:`OLDWARNING`.
     
 .. contents:: 
     :depth: 3
