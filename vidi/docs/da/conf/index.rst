@@ -1,19 +1,18 @@
 
-Velkommen til Vidi dokumentationen
+Opsætning
 ==================================================
 
 .. topic:: Overview
 
-    Denne dokumentation primært for slutbrugerne.
+    Denne gruppe indeholder information relevant for opsætning.
 
 Contents:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :glob:
 
-   use/index
-   conf/index
+    *
 
 
 Vidi
