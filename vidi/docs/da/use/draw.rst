@@ -21,11 +21,11 @@ Introduktion
 
 Tegneværktøjet 
 
-.. figure:: ../_media/cat.webp
+.. figure:: ../_media/meow.jpg
     :width: 200px
     :align: center
-    :height: 100px
-    :alt: alternate text
+    :height: 200px
+    :alt: meow
     :figclass: align-center
 
     figure are like images but with a caption
