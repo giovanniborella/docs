@@ -21,10 +21,11 @@ Introduktion
 
 Tegneværktøjet 
 
-.. figure:: ../_media/meow.jpg
-    :width: 200px
+.. figure:: ../../_media/meow.jpg
+    :width: 400px
     :align: center
-    :height: 200px
+..    :height: 200px
+
     :alt: meow
     :figclass: align-center
 
