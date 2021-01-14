@@ -1,7 +1,7 @@
 .. _layersearch:
 
 
-LayerSearch
+Editing
 =================================================================
 
 .. topic:: Overview
@@ -15,4 +15,4 @@ LayerSearch
     :depth: 3
 
 
-.. mdinclude:: ../old/layersearch.md
+.. mdinclude:: ../old/konfiguration.md

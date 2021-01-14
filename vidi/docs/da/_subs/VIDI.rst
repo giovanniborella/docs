@@ -1,7 +1,7 @@
 .. _VIDI:
 
 Vidi
-########
+=================================================================
 
 Her er links til mere generel information
 

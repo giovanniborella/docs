@@ -24,3 +24,6 @@ DOC: Specifikt Rønne havn – består af:
  * Flytning/Editering af komponenter
  * Logik ifht. tjek-interval
  * Håndtering af engangs-job / akut-tjekliste
+
+
+https://mapcentia.screenstepslive.com/s/21003/m/83819

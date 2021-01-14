@@ -1,13 +1,13 @@
 .. _layersearch:
 
 
-LayerSearch
+Editing
 =================================================================
 
 .. topic:: Overview
 
-    :Dato: 25. aug., 2017
-    :Forfatter: **Anders Barfod**
+    :Dato: 28. aug., 2019
+    :Forfatter: **Thlo03**
 
     .. include:: ../_subs/OLDWARNING.rst
     
@@ -15,4 +15,4 @@ LayerSearch
     :depth: 3
 
 
-.. mdinclude:: ../old/layersearch.md
+.. mdinclude:: ../old/editering.md
