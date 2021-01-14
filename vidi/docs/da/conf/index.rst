@@ -15,4 +15,4 @@ Contents:
     *
 
 
-.. include:: ../VIDI.rst 
+.. include:: ../_subs/VIDI.rst 

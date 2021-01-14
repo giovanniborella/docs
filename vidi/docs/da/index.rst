@@ -4,7 +4,7 @@ Velkommen til Vidi dokumentationen
 
 .. topic:: Overview
 
-    Denne dokumentation primært for slutbrugerne.
+    Vælg hvilken 
 
 Contents:
 
@@ -16,4 +16,4 @@ Contents:
    conf/index
 
 
-.. include:: VIDI.rst 
+.. include:: ./_subs/VIDI.rst 
