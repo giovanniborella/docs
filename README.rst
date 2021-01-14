@@ -1,41 +1,26 @@
-Template
-========
+TODO:
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+DOC: Generelt GC2 (admin) + konvertering fra qgis – består af:
+ * Oprettelse af subuser
+ * Rettighedsstyring
+ * Oprettelse af lag
+ * Håndtering af billeder
+ * Tematisering
+ * Indlæsning:
+    * CAD -> GC2
+    * PDF -> Georef PDF (qgis) -> GC2
+    * Indlæsning af dronefoto, lag
+    
+DOC: Generelt Vidi (kortmodul) – består af:
+ * Tegneværktøjer
+ * Måleværktøjer
+ * Projekter
+ * printværktøj
 
-Look how easy it is to use:
 
-    import project
-    # Get your stuff done
-    project.do_stuff()
-
-Features
---------
-
-- Be awesome
-- Make things faster
-
-Installation
-------------
-
-Install $project by running:
-
-    install project
-
-Contribute
-----------
-
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
-
-Support
--------
-
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
-
-License
--------
-
-The project is licensed under the BSD license.
+DOC: Specifikt Rønne havn – består af:
+ * Opstart m. login mv.
+ * Oprettelse af komponent
+ * Flytning/Editering af komponenter
+ * Logik ifht. tjek-interval
+ * Håndtering af engangs-job / akut-tjekliste
