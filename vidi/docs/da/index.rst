@@ -13,5 +13,6 @@ Indhold:
    :glob:
 
     pages/*
+    *
 
 .. include:: ./_subs/VIDI.rst 
