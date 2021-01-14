@@ -27,3 +27,8 @@ DOC: Specifikt Rønne havn – består af:
 
 
 https://mapcentia.screenstepslive.com/s/21003/m/83819
+
+
+Rst heading marks are currently hard-coded and unchangeable.
+
+    H1: =, H2: -, H3: ^, H4: ~, H5: ", H6: #

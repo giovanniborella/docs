@@ -9,10 +9,9 @@ Velkommen til Vidi dokumentationen
 Indhold:
 
 .. toctree::
-   :maxdepth: 2
-   :glob:
+    :maxdepth: 2
+    :glob:
 
     pages/*
-    *
 
 .. include:: ./_subs/VIDI.rst 

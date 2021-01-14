@@ -1,4 +1,4 @@
-.. _layersearch:
+.. _configuration:
 
 
 Editing
