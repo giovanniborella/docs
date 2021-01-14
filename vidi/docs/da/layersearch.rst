@@ -8,10 +8,10 @@ LayerSearch
 
     Denne side viser hvordan 
 
-    :Dato: 25. Aug. 2017
+    :Dato: 25. aug., 2017
     :Forfatter: **Anders Barfod**
 
-    .. include :ref:`_OLDWARNING`
+    .. include:: ./OLDWARNING.rst
     
 .. contents:: 
     :depth: 3

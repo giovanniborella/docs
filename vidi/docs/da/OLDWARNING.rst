@@ -4,4 +4,4 @@
 
             Indhold kan derfor være uddateret.
 
-            Du er velkommen til at hjælpe med at holde dokumentationen opdateret. Læs mere her :ref:`_CONTRIBUTING`
+            Du er velkommen til at hjælpe med at holde dokumentationen opdateret. Læs mere her :ref:`CONTRIBUTING`
