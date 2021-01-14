@@ -15,7 +15,7 @@ LayerSearch
 
             Indhold kan derfor være uddateret.
 
-            Du er velkommen til at hjælpe med at holde dokumentationen opdateret. Læs mere her `CONTRIBUTING </../CONTRIBUTING.md>`_
+            Du er velkommen til at hjælpe med at holde dokumentationen opdateret. Læs mere her :ref:`_CONTRIBUTING`
     
 .. contents:: 
     :depth: 3
