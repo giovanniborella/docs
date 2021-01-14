@@ -16,11 +16,4 @@ Contents:
    conf/index
 
 
-Vidi
-==================
-
-Her er links til mere generel information
-
-* :ref:`README`
-* :ref:`CHANGELOG`
-* :ref:`CONTRIBUTING`
+.. include:: VIDI.rst 

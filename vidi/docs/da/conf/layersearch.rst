@@ -6,12 +6,10 @@ LayerSearch
 
 .. topic:: Overview
 
-    Denne side viser hvordan 
-
     :Dato: 25. aug., 2017
     :Forfatter: **Anders Barfod**
 
-    .. include:: ./OLDWARNING.rst
+    .. include:: ../OLDWARNING.rst
     
 .. contents:: 
     :depth: 3
@@ -34,4 +32,4 @@ Schemaer kan opsættes i config'en. Her i test.json med:
 
 ``"schemata": [ "proj_vinterudbud_2016" ]``
 
-Eksempel på konfigurationsfil
+`Eksempel på konfigurationsfil <https://github.com/ballerupgis/ballerupgis.github.io/blob/master/gc2_config/test.json>`_

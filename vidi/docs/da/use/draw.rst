@@ -6,8 +6,6 @@ Tegneværktøjer
 
 .. topic:: Overview
 
-    Denne side viser hvordan 
-
     :Date: |today|
     :Author: **René Borella, Geopartner**
 
