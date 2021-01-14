@@ -8,12 +8,7 @@ Velkommen til Vidi dokumentationen
 
 Contents:
 
-.. toctree::
-   :maxdepth: 1
-   :glob:
-
-   use/index
-   conf/index
+ * :doc:`./use/index`
 
 
 .. include:: ./_subs/VIDI.rst 
