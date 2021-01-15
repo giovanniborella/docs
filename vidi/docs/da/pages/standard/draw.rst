@@ -1,12 +1,12 @@
 .. _draw:
 
-Draw
-=================================================================
+Tegn
+-----------------------------------------------------------------
 
 .. topic:: Overview
 
     :Date: |today|
-    :Author: **René Borella, Geopartner**
+    :Author: **René Borella**
 
 
 .. contents:: 
@@ -14,11 +14,11 @@ Draw
 
 
 Introduktion
-#################################################################
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Tegneværktøjet 
 
-.. figure:: ../../_media/meow.jpg
+.. figure:: ../../../_media/meow.jpg
     :width: 400px
     :align: center
     :alt: meow
