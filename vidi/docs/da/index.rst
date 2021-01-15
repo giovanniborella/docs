@@ -10,6 +10,10 @@ Hvis du har brug for at komme i gang med klienten fra bunden af, er her et godt 
 
     pages/gettingstarted/*
 
+*****************************************************************
+Standardværktøjer
+*****************************************************************
+
 Vidi indeholder en del værktøjer som altid er slået til. Disse  værktøjer er lavet til at at gøre arbejdet nemmere. Du kan læse mere om de enkelse værktøjer herunder.
 
 .. toctree::
@@ -18,6 +22,10 @@ Vidi indeholder en del værktøjer som altid er slået til. Disse  værktøjer e
 
     pages/standard/*
 
+*****************************************************************
+Extensions
+*****************************************************************
+
 Ud over standardværktøjerne, er der udviddet funktionalitet som du kan læse mere om herunder.
 
 .. toctree::
@@ -25,5 +33,8 @@ Ud over standardværktøjerne, er der udviddet funktionalitet som du kan læse m
     :glob:
 
     pages/extension/*
+
+
+.. Include generic links to repo
 
 .. include:: ./_subs/GIT.rst 
