@@ -6,9 +6,10 @@ Standard Moduler
 
 Vidi indeholder en del værktøjer som altid er slået til. Disse  værktøjer er lavet til at at gøre arbejdet nemmere. Du kan læse mere om de enkelse værktøjer herunder.
 
-.. toctree::
-    :maxdepth: 2
-    :glob:
+.. contents:: 
+    :depth: 1
 
-    pages/standard/*
 
+.. Insert sub-pages here, to control the ordering.
+
+.. include:: ./standard/draw.rst

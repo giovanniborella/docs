@@ -18,7 +18,7 @@ Introduktion
 
 Tegneværktøjet 
 
-.. figure:: ../../../_media/meow.jpg
+.. figure:: ../../_media/meow.jpg
     :width: 400px
     :align: center
     :alt: meow
