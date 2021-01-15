@@ -1,19 +1,15 @@
+#################################################################
+Vidi brugerdokumentation
+#################################################################
 
-Velkommen til Vidi dokumentationen
-==================================================
-
-.. topic:: Overview
-
-    Vælg et emne 
-
-Indhold:
+Kom godt i gang:
 
 .. toctree::
     :maxdepth: 2
     :glob:
 
-    pages/*
-    pages/standard/*
-    pages/extension/*
+    pages/gettingstarted
+    pages/standard
+    pages/extension
 
 .. include:: ./_subs/VIDI.rst 
