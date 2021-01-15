@@ -2,14 +2,12 @@
 Vidi brugerdokumentation
 #################################################################
 
-Kom godt i gang:
-
 .. toctree::
     :maxdepth: 2
     :glob:
 
     pages/gettingstarted
-    pages/standard
-    pages/extension
+    pages/standard/*
+    pages/extension/*
 
 .. include:: ./_subs/VIDI.rst 
