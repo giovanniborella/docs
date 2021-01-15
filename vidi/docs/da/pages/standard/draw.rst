@@ -23,5 +23,6 @@ Tegneværktøjet
     :align: center
     :alt: meow
     :figclass: align-center
+    :name: cat
 
     figure are like images but with a caption

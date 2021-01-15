@@ -7,7 +7,7 @@ Vidi brugerdokumentation
     :glob:
 
     pages/gettingstarted
-    pages/standard/*
-    pages/extension/*
+    pages/standard
+    pages/extension
 
 .. include:: ./_subs/VIDI.rst 
