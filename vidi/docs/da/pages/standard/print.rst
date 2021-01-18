@@ -60,6 +60,14 @@ Følgende indstillinger kan også sættes:
 
 Når man er tilfreds med indstillingerne, klikker man på ``Lav PDF``. Det er også muligt at bruge drop-down til at printe som ``PNG``
 
+.. figure:: ../../../_media/print-ready.png
+    :width: 400px
+    :align: center
+    :name: print-ready
+    :figclass: align-center
+
+    Klar til at printe
+
 .. figure:: ../../../_media/print-complete.png
     :width: 400px
     :align: center

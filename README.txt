@@ -17,7 +17,7 @@ DOC: Generelt GC2 (admin) + konvertering fra qgis – består af:
 DOC: Generelt Vidi (kortmodul) – består af:
 [X] Tegneværktøjer
 [X] Måleværktøjer
-[ ] Projekter
+[X] Projekter
 [X] printværktøj
 
 
@@ -62,9 +62,11 @@ https://kort.geofyn.dk/app/geofyn/?config=borgerkort01.json#geodk.bright/6/10.47
 
 bugs to check:
 draw: style: ende: pilehoved, start skal roteres 180gr
-draw: reklangel type "klik og træk for et tegne rektangel" -> "klik og træk for at tegne et rektangel"
-draw: zoom-til feature virker ikke for "marker" & "cirkelmarker"
+draw: reklangel typo "klik og træk for et tegne rektangel" -> "klik og træk for at tegne et rektangel"
 draw: cirkelmarker -> annotation?
+draw: type translate?
 
 print: oversættelse - landscape/portrait
+
+project: tilgængelig i andre schema, men uden draw?
 

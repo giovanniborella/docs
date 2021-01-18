@@ -22,16 +22,6 @@ Tegn-værktøjet
 
 Elementer vil også fremgå på PDF-print.
 
-Når værktøjet vælges er det indledningsvis slukket.
-
-.. figure:: ../../../_media/draw-off.png
-    :width: 400px
-    :align: center
-    :name: draw-off
-    :figclass: align-center
-
-    Start værktøjet ved klikke på ``Aktivér tegneværktøjer``
-
 Typer
 =================================================================
 

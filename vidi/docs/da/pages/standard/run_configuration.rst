@@ -38,6 +38,6 @@ Skab projekt
 
 TBD
 
-.. rubric:: Footnotes
+.. rubric:: Fodnoter
 
 .. [#fragment] Et fragment er den del af en URL der kommer efter `#`.
