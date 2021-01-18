@@ -8,7 +8,7 @@ Tegn
 
     :Date: |today|
     :Vidi-version: 2020.11.0
-    :Forfatter: **René Borella**
+    :Forfatter: `giovanniborella <https://github.com/giovanniborella>`_
 
 .. contents:: 
     :depth: 3

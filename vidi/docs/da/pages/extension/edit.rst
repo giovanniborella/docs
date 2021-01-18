@@ -6,7 +6,7 @@ Editering
 .. topic:: Overview
 
     :Date: |today|
-    :Author: **René Borella**
+    :Author: `giovanniborella <https://github.com/giovanniborella>`_
 
 .. contents:: 
     :depth: 3

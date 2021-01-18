@@ -1,5 +1,8 @@
 TODO:
 
+LARS: link fra kort til DN
+
+
 DOC: Generelt GC2 (admin) + konvertering fra qgis – består af:
 [ ] Oprettelse af subuser
 [ ] Rettighedsstyring
@@ -15,7 +18,7 @@ DOC: Generelt Vidi (kortmodul) – består af:
 [X] Tegneværktøjer
 [X] Måleværktøjer
 [ ] Projekter
-[ ] printværktøj
+[X] printværktøj
 
 
 DOC: Specifikt Rønne havn – består af:
@@ -62,4 +65,6 @@ draw: style: ende: pilehoved, start skal roteres 180gr
 draw: reklangel type "klik og træk for et tegne rektangel" -> "klik og træk for at tegne et rektangel"
 draw: zoom-til feature virker ikke for "marker" & "cirkelmarker"
 draw: cirkelmarker -> annotation?
+
+print: oversættelse - landscape/portrait
 

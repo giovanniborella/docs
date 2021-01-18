@@ -8,7 +8,7 @@ Systemkonfiguration
 
     :Date: |today|
     :Vidi-version: 2020.11.0
-    :Forfatter: **René Borella**
+    :Forfatter: `giovanniborella <https://github.com/giovanniborella>`_
 
 .. contents:: 
     :depth: 3
@@ -27,12 +27,30 @@ Opbygning
 
 Vidi styres af ``config.js``. Denne fil vil være at finde i ``./vidi/config/``. 
 
+.. _configjs_puppeteerprocesses:
+
+puppeteerProcesses
+-----------------------------------------------------------------
+
+Denne blok styrer hvor mange arbejdere der kan være forbindet til print-køen. 
+
+Hvis man sætter ``"min": 0`` vil der ikke køre processer i baggrunden, og der skal startes en puppeteer op fra bunden. Denn "cold-start" kan tage flere sekunder.
+
+Antallet af varme puppeteer-instaser vil have en effekt på systemets RAM forbrug.
+
+.. code-block:: json
+
+    "puppeteerProcesses": {
+        "min": 1,
+        "max": 2
+    },
+
 .. _configjs_print:
 
 print
 -----------------------------------------------------------------
 
-Denn nøgle indeholder opsætningen af print. Den består af underdele som alle er obligatoriske. Ændringer heri skal 
+Denne nøgle indeholder opsætningen af print. Den består af underdele som alle er obligatoriske. 
 
 .. _configjs_print_templates:
 

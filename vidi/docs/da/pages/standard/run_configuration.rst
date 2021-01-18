@@ -1,31 +1,43 @@
-.. _configjs:
+.. _configjson:
 
 #################################################################
-Systemkonfiguration
+Kørselskonfiguration
 #################################################################
 
 .. topic:: Overview
 
     :Date: |today|
     :Vidi-version: 2020.11.0
-    :Forfatter: **René Borella**
+    :Forfatter: `giovanniborella <https://github.com/giovanniborella>`_
 
 .. contents:: 
     :depth: 3
 
 
 *****************************************************************
-Systemkonfiguration
+Kørselskonfiguration
 ***************************************************************** 
 
-Vidi kan konfigureres under opstart. Denne konfiguration indehodler information om hvilke extensions der skal indlæses, hvilke print-skabeloner der er tilgængelige med mere.
+Når vidi startes i browseren læses værdier ind fra :ref:`configjs`. I flere tilfælde kan denne konfiguration ændres til eksempelvis at inkludere bestemte extensions, eller print-templates.
 
-Laves der en ændring, skal vidi startes igen.
+Vidi startes med en URL som denne (uden fragments [#fragment]_):
+
+``https://kort.geofyn.dk/app/geofyn/?config=borgerkort01.json``
+
+Som kan læses sådan:
+
+``https://<host>/app/<database>/?config=<kørselskonfiguration>.json``
 
 Opbygning
 =================================================================
 
-Vidi styres af ``config.js``. Denne fil vil være at finde i  
+TBD 
 
 Skab projekt
 -----------------------------------------------------------------
+
+TBD
+
+.. rubric:: Footnotes
+
+.. [#fragment] Et fragment er den del af en URL der kommer efter `#`.
