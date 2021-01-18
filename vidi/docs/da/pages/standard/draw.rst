@@ -7,6 +7,7 @@ Tegn
 .. topic:: Overview
 
     :Date: |today|
+    :Vidi-version: 2020.11.0
     :Forfatter: **René Borella**
 
 .. contents:: 
