@@ -18,7 +18,7 @@ Måleværktøjer
 Måle-værktøjet
 ***************************************************************** 
 
-Hvis du er i tvivl om de forskellige UI-elementer, kan du se mere her: :ref:`gettingstarted`
+.. include:: ../../_subs/NOTE_GETTINGSTARTED.rst
 
 Elementer vil også fremgå på PDF-print.
 

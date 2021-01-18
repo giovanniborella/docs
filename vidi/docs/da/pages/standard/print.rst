@@ -20,17 +20,9 @@ Print
 Printværktøj
 ***************************************************************** 
 
-Hvis du er i tvivl om de forskellige UI-elementer, kan du se mere her: :any:`gettingstarted`
+.. include:: ../../_subs/NOTE_GETTINGSTARTED.rst
 
-Når værktøjet vælges er det indledningsvis slukket.
-
-.. figure:: ../../../_media/print-off.png
-    :width: 400px
-    :align: center
-    :name: print-off
-    :figclass: align-center
-
-    Start værktøjet ved klikke på ``Aktivér printværktøjer``
+Når værktøjet vælges er det indledningsvis tændt.
 
 Print
 =================================================================
