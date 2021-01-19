@@ -82,13 +82,21 @@ Vektor
 For at uploade vektor-filer og dermed danne lag på baggrund af disse, følges denne beskrivelse. Numre passer med :numfig:`layer-create-vector`:
 
 1. Klik på ``Tilføj filer``, eller træk flere filer ad gangen ind i dialogboksen. Følg hjælpeteksten i boksen.
+
 2. Sæt koordinatsystem som filerne skal ende i . Dette kan f.eks. være ``25832`` for ``utm32`` eller ``4326`` for ``wgs84``.
+
 3. Hvis man uploader ``.shp``-filer, er det en god idé at definere geometri-typen, ellers er der risiko for at geometrien bliver læst som blandet.
+
 4. Hvis attributterne i datafilerne indeholder ``ASCII``, skal ``encoding`` defineres korrekt. Eller kan tegn ikke vises korrekt (``Æ``, ``Ø``, ``Å`` blandt andet.)
+
 5. Hvis data indeholder fejl, så spring disse over.
+
 6. Hvis der allerede eksisterer et lag med samme navn som filen man uploader, så overskriv det eksisterende lag.
+
 7. Hvis der allerede eksisterer et lag med samme navn som filen man uploader, så overskriv ikke, men læg data i samme lag.
+
 8. Hvis denne er slået til bliver et lag med samme navn som filen man uplader ikke overskrevet eller lagt til - men derimod tømt og indhold fra den nye fil bliver lagt i laget. Man kan bruge denne funktion til at undgå at skulle fjerne views der afhænger af laget.
+
 9. Klik ``Start upload``
 
 Efter upload er færdig, er de nye datasæt tilgængelige i ``Map``-fanen, hvor det har fået en standard-tematisering, og i ``Database``-fanen hvor det er muligt at ændre lagets egenskaber.
@@ -143,17 +151,55 @@ TBD
 QGIS-lag
 -----------------------------------------------------------------
 
-TBD
+TBD - ref to qgis
 
 .. _layer_properties:
 
 Egenskaber
 =================================================================
 
-QGIS-lag
+TBD
+
+.. _layer_properties_privileges:
+
+Privilegier
 -----------------------------------------------------------------
 
-TBD
+.. figure:: ../../../_media/layer-properties-privilegier.png
+    :width: 400px
+    :align: center
+    :name: layer-properties-privilegier
+    :figclass: align-center
+
+    Privilegier
+
+Det er muligt at styre rettighederne for den enkelte subuser under menupunktet ``Privilegier``
+
+Hvis man er logget ind som databaseuser er det muligt at sætte rettighederne for den enkelte subuser. Bemærk at dette ikke berører de lag der i forvejen er sat til offentlige. læs mere under :ref:`layer_properties_authentication`
+
+.. _layer_properties_meta:
+
+Meta
+-----------------------------------------------------------------
+
+TODO: grab from 08-setup-meta-vidi
+
+.. _layer_properties_authentication:
+
+Authentication
+-----------------------------------------------------------------
+
+Det er muligt at sætte rettighederne på lagniveau. Disse rettigheder gælder når man tilgår laget igennem Vidi eller eksterne klienter.
+
+Det er muligt at sætte følgende niveauer:
+
+* ``Write`` - Laget kan læses af alle. For at editere skal brugere være logget ind i klienten.
+
+* ``Read/Write`` - Laget kan kun læses af brugere med adgang. For at læse eller skrive skal brugeren være logget ind.
+
+* ``None`` - Laget er åbent for alle. 
+
+Man kan yderligere styre rettigheder i :ref:`layer_properties_privileges`
 
 .. _layer_faq:
 
@@ -162,6 +208,4 @@ Oftest stillede spørgsmål
 
 Under opsætning og drift kommer man tit ud i situationer hvor det kan være nødvendigt at justere opsætningen på et lag. Herunder er der nogle eksempler på ændringer.
 
-Nyt lag
------------------------------------------------------------------
-
+TBD

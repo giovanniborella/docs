@@ -112,7 +112,7 @@ TBD
 Subusers
 -----------------------------------------------------------------
 
-For at få mere information om subusers, kan du læse :ref:`subuser`
+Her vises alle subusers. For at få mere information om subusers, kan du læse :ref:`subuser`
 
 .. _gettingstarted_admin:
 

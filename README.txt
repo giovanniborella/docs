@@ -4,10 +4,10 @@ LARS:
 [ ] link fra kort til DN
 
 DOC: Generelt GC2 (admin) + konvertering fra qgis – består af:
-[ ] Oprettelse af subuser
-[ ] Rettighedsstyring
+[X] Oprettelse af subuser
+[X] Rettighedsstyring
 [X] Oprettelse af lag
-[ ] Håndtering af billeder
+[X] Håndtering af billeder
 [X] Tematisering
 [ ] Indlæsning:
     [ ] CAD -> GC2
