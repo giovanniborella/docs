@@ -1,25 +1,26 @@
 TODO:
 
-LARS: link fra kort til DN
-
+LARS: 
+[ ] link fra kort til DN
 
 DOC: Generelt GC2 (admin) + konvertering fra qgis – består af:
 [ ] Oprettelse af subuser
 [ ] Rettighedsstyring
-[ ] Oprettelse af lag
+[X] Oprettelse af lag
 [ ] Håndtering af billeder
-[ ] Tematisering
+[X] Tematisering
 [ ] Indlæsning:
     [ ] CAD -> GC2
     [ ] PDF -> Georef PDF (qgis) -> GC2
     [ ] Indlæsning af dronefoto, lag
+[ ] PR to latest release on Mapcentia/GC2
     
 DOC: Generelt Vidi (kortmodul) – består af:
 [X] Tegneværktøjer
 [X] Måleværktøjer
 [X] Projekter
 [X] printværktøj
-
+[X] PR to latest release on Mapcentia/Vidi
 
 DOC: Specifikt Rønne havn – består af:
 [ ] Opstart m. login mv.
