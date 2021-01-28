@@ -35,6 +35,19 @@ Ud over standardværktøjerne, er der udviddet funktionalitet som du kan læse m
     pages/extension/*
 
 
+*****************************************************************
+Tilpassede
+*****************************************************************
+
+For at understøtte nogle af de videreudviklede komponenter, er der skrevet nogle tilpassede vejledninger. Disse er tilgængelige her.
+
+.. toctree::
+    :maxdepth: 1
+    :glob:
+
+    pages/vendor/*
+
+
 .. Include generic links to repo
 
 .. include:: ./_subs/GIT.rst 

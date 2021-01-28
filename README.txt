@@ -23,11 +23,11 @@ DOC: Generelt Vidi (kortmodul) – består af:
 [X] PR to latest release on Mapcentia/Vidi
 
 DOC: Specifikt Rønne havn – består af:
-[ ] Opstart m. login mv.
-[ ] Oprettelse af komponent
+[X] Opstart m. login mv.
+[X] Oprettelse af komponent
 [ ] Flytning/Editering af komponenter
-[ ] Logik ifht. tjek-interval
-[ ] Håndtering af engangs-job / akut-tjekliste
+[X] Logik ifht. tjek-interval
+[X] Håndtering af engangs-job / akut-tjekliste
 
 
 Scratchpad:
