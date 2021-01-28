@@ -1,7 +1,7 @@
 TODO:
 
 LARS: 
-[ ] link fra kort til DN
+[X] link fra kort til DN
 
 DOC: Generelt GC2 (admin) + konvertering fra qgis – består af:
 [X] Oprettelse af subuser
@@ -13,7 +13,7 @@ DOC: Generelt GC2 (admin) + konvertering fra qgis – består af:
     [ ] CAD -> GC2
     [ ] PDF -> Georef PDF (qgis) -> GC2
     [ ] Indlæsning af dronefoto, lag
-[ ] PR to latest release on Mapcentia/GC2
+[X] PR to latest release on Mapcentia/GC2
     
 DOC: Generelt Vidi (kortmodul) – består af:
 [X] Tegneværktøjer
