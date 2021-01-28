@@ -270,7 +270,7 @@ For at starte udvælges et element på det relevante lag. Vi går ud fra ``Åbne
 
 4. Gem Tjekliste
 
-    Når tjeklisten gemmes, kan man følge status som vis i :numfig:`roennehavn_09`:
+    Når tjeklisten gemmes, kan man følge status som vis i :numref:`roennehavn_09`:
 
     .. note::
         Hvis der er bindinger på nogle af attributterne, vil man blive gjort opmærksom på at disse skal udfyldes, eller er af forkert type.
@@ -291,4 +291,4 @@ Det anbefales at man kun benytter kortet til at tilføje tjeklister, da der kør
 
     For at finde ``komponentid`` kan man med fordel følge beskrivelsen i :ref:`roennehavn_vidi_info`
 
-For at oprette en tjekliste følges beskrivelsen i :ref:`roennehavn_actions_checklist_fill`. Med undtagelse af attributten ``komponentid`` - som sættes til den væærdi man har hentet fra ``Stamoplysninger``
+For at oprette en tjekliste følges beskrivelsen i :ref:`roennehavn_actions_checklist_fill`. Med undtagelse af attributten ``komponentid`` - som sættes til den værdi man har hentet fra ``Stamoplysninger``

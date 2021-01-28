@@ -52,7 +52,7 @@ Skab projekt
 
 Når kortet er opsat med de relevante lag, baggrundskort, tegninger mv. Indtastes et projektnavn, og man trykker på ``Gem``-knappen.
 
-Knappen er "Disketten" vist på :numfig:`project-on`
+Knappen er "Disketten" vist på :numref:`project-on`
 
 Genskab projekt
 -----------------------------------------------------------------
