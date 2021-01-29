@@ -41,11 +41,11 @@ Det er muligt at tilgå et projekt på flere måder:
 
 * Direkte som link. Et link direkte til et projekt kan se sådan ud:
 
-`http://mapgoviditest.geopartner.dk/app/vandvaerker/public/?state=state_snapshot_35f2ea90-5975-11eb-8a1b-e3cc28c27983`_
+`<host>/app/vandvaerker/public/?state=state_snapshot_35f2ea90-5975-11eb-8a1b-e3cc28c27983`_
 
 * Man få et link til at printe kortet ud som png:
 
-`http://mapgoviditest.geopartner.dk/api/static/vandvaerker/public/?state=state_snapshot_35f2ea90-5975-11eb-8a1b-e3cc28c27983&width=1920&height=1080`_
+`<host>/api/static/vandvaerker/public/?state=state_snapshot_35f2ea90-5975-11eb-8a1b-e3cc28c27983&width=1920&height=1080`_
 
 Skab projekt
 -----------------------------------------------------------------

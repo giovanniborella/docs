@@ -12,7 +12,7 @@ DOC: Generelt GC2 (admin) + konvertering fra qgis – består af:
 [ ] Indlæsning:
     [ ] CAD -> GC2
     [ ] PDF -> Georef PDF (qgis) -> GC2
-    [ ] Indlæsning af dronefoto, lag
+    [X] Indlæsning af dronefoto, lag
 [X] PR to latest release on Mapcentia/GC2
     
 DOC: Generelt Vidi (kortmodul) – består af:
@@ -25,9 +25,21 @@ DOC: Generelt Vidi (kortmodul) – består af:
 DOC: Specifikt Rønne havn – består af:
 [X] Opstart m. login mv.
 [X] Oprettelse af komponent
-[ ] Flytning/Editering af komponenter
+[X] Flytning/Editering af komponenter
 [X] Logik ifht. tjek-interval
 [X] Håndtering af engangs-job / akut-tjekliste
+
+-
+Til intern
+[ ] Info
+[ ] Lagstyring u. filter
+[ ] baggrundskort
+[ ] Session
+
+GP
+[ ] matrikeludpegning
+[ ] konfliktanalyse
+
 
 
 Scratchpad:
