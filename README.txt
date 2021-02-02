@@ -31,8 +31,8 @@ DOC: Specifikt Rønne havn – består af:
 
 
 Til intern
-[ ] Info
-[ ] Lagstyring u. filter
+[X] Info
+[X] Lagstyring u. filter
 [ ] baggrundskort
 [ ] Session
 
@@ -82,4 +82,7 @@ draw: type translate?
 print: oversættelse - landscape/portrait
 
 project: tilgængelig i andre schema, men uden draw?
+
+layers: Signatur for alle lag i subgroup vises under det enkelte lag? se: https://mapgovidi.geopartner.dk/app/geosag/gc2_io_dk_plandatadk/#geodk.bright/16/12.199/55.3075/gc2_io_dk_plandatadk.pdk_kommuneplantillaeg_vedtaget_v
+
 

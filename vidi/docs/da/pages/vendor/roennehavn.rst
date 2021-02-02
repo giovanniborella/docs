@@ -69,6 +69,8 @@ Lag
 
 Der er oprettet følgenede lag som styrer indholdet mellem docunote og vidi.
 
+For mere info om ``Lag``-knappen. læs her: :ref:`layers`
+
 .. figure:: _img/roennehavn_01.png
     :width: 400px
     :align: center
