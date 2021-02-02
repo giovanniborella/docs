@@ -29,7 +29,7 @@ DOC: Specifikt Rønne havn – består af:
 [X] Logik ifht. tjek-interval
 [X] Håndtering af engangs-job / akut-tjekliste
 
--
+
 Til intern
 [ ] Info
 [ ] Lagstyring u. filter

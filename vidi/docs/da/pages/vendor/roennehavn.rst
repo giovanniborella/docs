@@ -122,6 +122,8 @@ For at få mere at vide om de enkelte komponenter el. tjeklister, bruges ``Info`
 
     Popup & søgeresultater
 
+For mere information om ``Info``-værktøjet kan man læse om det her :ref:`info`
+
 .. _roennehavn_actions:
 
 Handlinger
