@@ -15,4 +15,11 @@ Editering
 Introduktion
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""" 
 
-TBD
+.. figure:: ../../../_media/meow.jpg
+    :width: 400px
+    :align: center
+    :alt: meow
+    :figclass: align-center
+    :name: cat
+
+    figure are like images but with a caption
