@@ -33,7 +33,7 @@ DOC: Specifikt Rønne havn – består af:
 Til intern
 [X] Info
 [X] Lagstyring u. filter
-[X] baggrundskort
+[ ] baggrundskort
 [ ] Session
 
 GP
