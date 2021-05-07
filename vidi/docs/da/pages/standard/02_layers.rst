@@ -11,7 +11,7 @@ Lag
     :Forfatter: `giovanniborella <https://github.com/giovanniborella>`_
 
 .. contents:: 
-    :depth: 3
+    :depth: 4
 
 
 *****************************************************************

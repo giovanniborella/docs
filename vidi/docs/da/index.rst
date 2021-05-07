@@ -23,18 +23,6 @@ Vidi indeholder en del værktøjer som altid er slået til. Disse værktøjer er
     pages/standard/*
 
 *****************************************************************
-Avanceret
-*****************************************************************
-
-Det er nemt at tilpasse Vidi før og under køresel. Læs mere om opsætning og avanceret brug af se Vidi.
-
-.. toctree::
-    :maxdepth: 1
-    :glob:
-
-    pages/advanced/*
-
-*****************************************************************
 Extensions
 *****************************************************************
 
@@ -45,7 +33,6 @@ Ud over standardværktøjerne, er der udviddet funktionalitet som du kan læse m
     :glob:
 
     pages/extension/*
-
 
 *****************************************************************
 Tilpassede
