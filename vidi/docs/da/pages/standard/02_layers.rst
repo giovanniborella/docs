@@ -119,7 +119,39 @@ Hvert lag i panelt inholder en del information.
 
 7. Filter
 
-    TBD
+    Det er muligt at filtrere laget ud fra lagopsætningen.
+
+    .. figure:: ../../../_media/layers-filter.png
+        :width: 400px
+        :align: center
+        :name: layers-filter
+        :figclass: align-center
+
+        Filtrere indhold der vises på kortet for det enkelte lag
+
+    For hvert filter defineres hvilket felt man vil kigge på, hvordan den skal sammenliges med en værdi, og hvilken værdi der skal sammenlignes med.
+
+    - ``=`` angiver at feltet skal være det samme som værdien (lig med)
+    - ``<>`` angiver at feltet skal være andet end den angivne værdi (ikke lig med)
+    - ``like`` angiver at feltet skal indeholde den angivne værdi. Denne søgning er ikke case-sensitiv
+
+    Efter man har defineret sine filtre, trykker man ``ANVEND``. Ved flere filtre arbejdes der efter match på ``Alle`` filtre, eller ``Enhver``.
+
+    - Matches der efter ``Enhver`` bliver elementerne vist hvis de falder under bare et enkelt filter
+    - Mathces der efter ``Alle`` bliver elementer kun vist hvis de falder under alle de definere filtre
+
+    Det er også muligt at manipulere feltet direkte som SQL forespørgsel, dette kan gøres i editoren nederst.
+
+    Det er ligeledes muligt at nulstille sit filter, samt at sætte kortudsnittet til filterets udstrækning. 
+
+    .. figure:: ../../../_media/layers-filter-example.png
+        :width: 400px
+        :align: center
+        :name: layers-filter-example
+        :figclass: align-center
+
+        Eksempel: Vis elementer med sammensat filter.
+
 
 .. _layers_ext_information:
 
@@ -136,6 +168,50 @@ Hvert lag i panelt inholder en del information.
         :figclass: align-center
 
         Tænd eller sluk for labels.
+
+.. _layers_add_feature:
+
+9. Tilføj feature
+
+    Hvis laget er sat op til det, og rettighederne for brugeren er tilstrækkeligt kan det være muligt at oprette nye features på et lag.
+
+
+
+    .. figure:: ../../../_media/layers-add-feature.png
+        :width: 400px
+        :align: center
+        :name: layers-add-feature
+        :figclass: align-center
+
+        Mulighed for at oprette nye feature.
+
+    .. note:: OBS husk at stedfæste geometrien, ellers vil der blive oprettet et punkt relativt til info-boksen.
+    
+    Efter man klikker på ``+``-tegnet vil infoboks med de relevante felter vises.
+
+    .. figure:: ../../../_media/layers-add-feature-start.png
+        :width: 400px
+        :align: center
+        :name: layers-add-feature-start
+        :figclass: align-center
+
+        Info-boks til indtastning
+    
+    Felterne udfyldet med relevant information for laget, hvorefter der gemmes med ``SUBMIT``
+
+    .. figure:: ../../../_media/layers-add-feature-end.png
+        :width: 400px
+        :align: center
+        :name: layers-add-feature-end
+        :figclass: align-center
+
+        Info på den dannede feature.
+
+    Efterfølgende er det muligt at editere eller slette vha. de øverste 2 knapper.  
+
+    
+
+    
 
     
 

@@ -21,7 +21,7 @@ GC2 har et konfigurerbart Meta Data system med egenskaber, som Vidi læser ved o
 
 Herunder følger de forskellige egenskaber, der har betydning for Vidi.
 
-.. _gc2mata_layertype:
+.. _gc2meta_layertype:
 
 1) Layer type
 =================================================================
@@ -30,7 +30,7 @@ Herunder følger de forskellige egenskaber, der har betydning for Vidi.
 
 Hvilket type skal laget have i Vidi? Enten Vector, Tile eller Both. Tile er standard. Hvis Vector vælges vil Vidi hente rå-dataene og vise som et vektorlag. Vektorlag gemmes i browseren og kan bruges uden netværk (Se PWA afsnittet). Hvis Both vælges, bliver det muligt at skifte mellem typerne i Vidi.
 
-.. _gc2mata_editor:
+.. _gc2meta_editor:
 
 2) Editor
 =================================================================
@@ -39,7 +39,7 @@ Hvilket type skal laget have i Vidi? Enten Vector, Tile eller Both. Tile er stan
 
 Skal laget være editerbart? Både Tile og Vector kan editeres. Det anbefales dog at benytte Vector til lag, som skal editeres i marken, da der er fuld funktionalitet uden netværk eller med langsom forbindelse.
 
-.. _gc2mata_tilesettings:
+.. _gc2meta_tilesettings:
 
 3) Tile settings
 =================================================================
@@ -54,7 +54,7 @@ Hvis tjekket af, vil Vidi omgå MapCache og trække laget direkte fra WMS. Dette
 
 Denne egenskab bevirker, at laget tiles bliver trukket fra et brugerdefineret API. Fx en extension til GC2.
 
-.. _gc2mata_vectorsettings:
+.. _gc2meta_vectorsettings:
 
 4) Vector settings
 =================================================================
@@ -69,7 +69,7 @@ Kan enten være Static eller dynamic. Static betyder, at alle lagets data bliver
 
 Hvor mange features skal skal der max leveres? Når laget tændes og max bliver nået, vises ingen features i laget og brugeren bliver informeret om, at max blev nået.
 
-.. _gc2mata_filters:
+.. _gc2meta_filters:
 
 5) Filters
 =================================================================
@@ -111,7 +111,7 @@ Hvad skal match være som standard: All eller Any
 
 Hvis denne egenskab er slået til kan filteropsætningen ikke ændres i Vidi.
 
-.. _gc2mata_references:
+.. _gc2meta_references:
 
 6) References
 =================================================================
@@ -138,7 +138,7 @@ Her er der kun ét børne-lag, men der skrives flere objekter ind i listen.
 
 I Vidi i laget-træet kan børne-lagene ses på forældre-laget:
 
-.. _gc2mata_layerstree:
+.. _gc2meta_layerstree:
 
 7) Layer tree
 =================================================================
